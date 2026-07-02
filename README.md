@@ -94,4 +94,4 @@ Dual-Sensor Arrays: Upgradable for precise (±1 km/h) vehicle speed estimation.
 
 IoT Connectivity: Ready for lightweight telemetry transmission for remote diagnostics.
 
-Macro-Analytics: Cloud-connected intersection data to map and predict city-wide traffic trends.
+Macro-Analytics: Cloud-connected intersection data to map and predict city-wide traffic trends. 
