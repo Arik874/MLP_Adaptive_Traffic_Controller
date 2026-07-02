@@ -76,7 +76,7 @@ Install dependencies:
 pip install numpy scikit-learn
 
 
-Run the generator:
+Then run the generator:
 
 python train_traffic_mlp.py
 
