@@ -1,4 +1,5 @@
-<img width="1173" height="870" alt="image" src="https://github.com/user-attachments/assets/0c985792-276b-4bcc-a2b9-f069ded0682d" />
+<img width="1173" height="870" alt="image" src="https://github.com/user-attachments/assets/930f794e-cf17-41a3-8fb6-6b1e62c6efbd" />
+
 
 Adaptive Traffic Control System : Embedded Hardware
 
