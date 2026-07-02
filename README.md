@@ -1,3 +1,5 @@
+<img width="1173" height="870" alt="image" src="https://github.com/user-attachments/assets/0c985792-276b-4bcc-a2b9-f069ded0682d" />
+
 Adaptive Traffic Control System : Embedded Hardware
 
 Made for the Coursework requirement of MKEC - Advanced Microprocessor Design [Group Assignment]
